@@ -15,3 +15,7 @@ Terminal 2: npm start
 Terminal 3: mongod --dbpath ./DataBase(provide your database path)
 
 open localhost:3000 in web-browser
+
+<p align="center">
+  <img src="./Event Management.png" />
+</p>
