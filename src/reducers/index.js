@@ -1,7 +1,7 @@
 'use strict'
 import { combineReducers } from 'redux';
-import {booksReducers} from './booksReducers';
+import {eventsReducers} from './eventsReducers';
 
 export default combineReducers({
-    events: booksReducers
+    events: eventsReducers
 });

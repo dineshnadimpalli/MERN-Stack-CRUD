@@ -2,7 +2,7 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
-import { getEvents,uploadEvents } from '../../actions/booksActions';
+import { getEvents,uploadEvents } from '../../actions/eventActions';
 import { Button, Glyphicon } from 'react-bootstrap';
 import { findDOMNode } from 'react-dom';
 
